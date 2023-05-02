@@ -1,4 +1,6 @@
-### Hi there 👋
+Oi! Meu Nome é Pedro Henrique Peixoto Carneiro, seja bem-vindo(a)!
+
+Sou uma pessoa que adora aprender. Há muitos anos atrás eu comecei a faculdade de ciência da computação e fazia estágio em uma empresa de web-design, porém, desisti da faculdade... e acabei me formando em Administração...Agora, voltei as origens e estou estudando HTML, CSS e JavaScript para colocar em prática o sonho de trabalhar com programação.👋
 <div>
   <a href="https://github.com/PedroPeixoto8">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroPeixoto8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
